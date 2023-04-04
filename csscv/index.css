@@ -4,46 +4,15 @@
     left: 0;
     top: 0;
     position: absolute;
-    background-color: #000000;
+    background-color: black;
+    background-image: url(bgs1.jpg);
     overflow: auto;
 }
 .s1 {
     font-size: 1.5rem;
     font-family: 'Roboto Mono', monospace;
-    color: rgb(1, 95, 1);
+    color: #006400;
     text-align: center;
     margin: 10% auto 10% auto;
 
-}
-.s2ext{
-    height: 100%;
-    width: 100%;
-    background-color: #1B262C;
-    position: absolute;
-    left: 0;
-    top: 100%;
-}
-.s2 {
-    font-size: 1rem;
-    font-family: 'Roboto Mono', monospace;
-    color: rgb(1, 95, 1);
-    text-align: center;
-    margin: 10% auto 10% auto;
-    
-}
-.s3ext{
-    height: 100%;
-    width: 100%;
-    background-color: #0F4C75;
-    position: absolute;
-    left: 0;
-    top: 200%;
-}
-.s4ext{
-    height: 100%;
-    width: 100%;
-    background-color: #3282B8;
-    position: absolute;
-    left: 0;
-    top: 300%;
 }
