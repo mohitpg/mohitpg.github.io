@@ -8,11 +8,18 @@
     background-image: url(bgs1.jpg);
     overflow: auto;
 }
-.s1 {
-    font-size: 1.5rem;
-    font-family: 'Roboto Mono', monospace;
-    color: #006400;
+.s1 h1 {
+    font-family: 'Arimo', sans-serif;
+    font-size: 4.5rem;
+    color: #f2eefd;
     text-align: center;
-    margin: 10% auto 10% auto;
+    margin: 10% auto 1% auto;
+
+}
+.s1 h2 {
+    font-family: 'Arimo', sans-serif;
+    font-size: 1.5rem;
+    color: #f2eefd;
+    text-align: center;
 
 }
