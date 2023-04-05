@@ -1,12 +1,23 @@
-.container-fluid {
+#intro {
     height: 100%;
+    width: 100%;
+    left: 0;
     top: 0;
     position: absolute;
     background-color: black;
     background-image: url(bgs1.jpg);
     overflow: auto;
 }
-.s1 h1 {
+#about {
+    height: 100%;
+    width: 100%;
+    top: 100%;
+    position: absolute;
+    background-color: black;
+    background-image: url(bgs2.jpg);
+    overflow: auto;
+}
+h1 {
     font-family: 'Arimo', sans-serif;
     font-size: 4.5rem;
     color: #f2eefd;
