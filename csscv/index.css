@@ -17,12 +17,20 @@
     background-image: url(bgs2.jpg);
     overflow: auto;
 }
-h1 {
+.s1 h1 {
     font-family: 'Arimo', sans-serif;
     font-size: 4.5rem;
     color: #f2eefd;
     text-align: center;
     margin: 10% auto 1% auto;
+
+}
+.container-fluid h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 4rem;
+    color: #f2eefd;
+    text-align: center;
+    margin: 7% auto 10% auto;
 
 }
 .s1 h2 {
@@ -31,4 +39,9 @@ h1 {
     color: #f2eefd;
     text-align: center;
 
+}
+#offcanpara{
+    color: white;
+    line-height: 0.8rem;
+    font-size: 1rem;
 }
