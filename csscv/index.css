@@ -8,10 +8,19 @@
     background-image: url(bgs1.jpg);
     overflow: auto;
 }
-#about {
+#skills {
     height: 100%;
     width: 100%;
     top: 100%;
+    position: absolute;
+    background-color: black;
+    background-image: url(bgs1.jpg);
+    overflow: auto;
+}
+#projects {
+    height: 100%;
+    width: 100%;
+    top: 200%;
     position: absolute;
     background-color: black;
     background-image: url(bgs1.jpg);
@@ -22,7 +31,7 @@
     font-size: 4.5rem;
     color: #f2eefd;
     text-align: center;
-    margin: 10% auto 1% auto;
+    margin: 17% auto 1% auto;
 
 }
 .container-fluid h1 {
@@ -30,7 +39,14 @@
     font-size: 4rem;
     color: #f2eefd;
     text-align: center;
-    margin: 7% auto 10% auto;
+    margin: 7% auto 1% auto;
+
+}
+.container-fluid h3 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 2rem;
+    color: #f2eefd;
+    margin-top: 3%;
 
 }
 .s1 h2 {
