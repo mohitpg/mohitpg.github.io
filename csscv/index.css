@@ -42,6 +42,13 @@
     margin: 7% auto 1% auto;
 
 }
+.fadeIn {
+    opacity: 0;
+    transition: 1s ease-in;
+}
+.appear{
+    opacity: 1 !important;
+}
 .container-fluid h3 {
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 2rem;
