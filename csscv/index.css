@@ -26,6 +26,13 @@
     background-image: url(bgs1.jpg);
     overflow: auto;
 }
+#mycard{
+    width: 50% !important;
+    background: black;
+    width: 18rem;
+    margin: 10% auto 10% auto;
+    color: antiquewhite;
+}
 .s1 h1 {
     font-family: 'Arimo', sans-serif;
     font-size: 4.5rem;
