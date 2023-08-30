@@ -30,7 +30,14 @@
     width: 50% !important;
     background: black;
     width: 18rem;
-    margin: 10% auto 10% auto;
+    margin: 5% auto 1rem auto;
+    color: antiquewhite;
+}
+#mycard2{
+    width: 50% !important;
+    background: black;
+    width: 18rem;
+    margin: 1% auto 0rem auto;
     color: antiquewhite;
 }
 .s1 h1 {
